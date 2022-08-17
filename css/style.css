@@ -14,7 +14,7 @@ body {
   background-color: #ffffff;
 }
 
-/* Navbar style */
+/* Navigation */
 nav {
   display: flex;
   flex-direction: row;
@@ -46,8 +46,7 @@ img[alt="logo"] {
   color: #fe5e35;
 }
 
-
-/* Intro */
+/* hero */
 .intro-section {
   display: flex;
   flex-direction: row;
@@ -141,8 +140,7 @@ img[alt="logo"] {
 
 .headphone-div {
   position: relative;
-  /* display: flex;
-  flex-direction: column; */
+ 
 }
 
 .discount {
@@ -185,7 +183,6 @@ img[alt="headphone"] {
   flex-direction: row;
   justify-content: center;
   margin-bottom: 25px;
-  /* align-items: center; */
 }
 .dot {
   height: 20px;
@@ -205,7 +202,8 @@ img[alt="headphone"] {
   background-color: #1d1d1d;
 }
 
-/*Decoration*/
+/* special effects */
+
 .nav-item:hover {
   color: #e76747;
 }
